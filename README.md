@@ -22,4 +22,4 @@ This is a group project done under the module EN2091 Laboratory Practice and Pro
 
 
 
-![Analog_Computer]([https://github.com/NilupuleeA/Analog-Computer/assets/153465850/b66c465d-21d6-482b-95f7-0a090533c900](https://github.com/pasiramavishan/myImages/blob/main/298389907-b66c465d-21d6-482b-95f7-0a090533c900.jpeg?raw=true))
+![Analog_Computer](https://github.com/pasiramavishan/myImages/blob/main/298389907-b66c465d-21d6-482b-95f7-0a090533c900.jpeg)
